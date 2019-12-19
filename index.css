@@ -1,0 +1,17 @@
+.button {
+	height: 100px;
+	width: 150px;
+	font-size: 20px;
+	padding: 10px 10px 10px 10px;
+}
+
+.container {
+	height: 250px;
+	width: 350px;
+	border-style: solid;
+	margin-left: 170px;
+	margin-top: -220px;
+}
+
+.btn2 {
+	margin-top: 10px;
